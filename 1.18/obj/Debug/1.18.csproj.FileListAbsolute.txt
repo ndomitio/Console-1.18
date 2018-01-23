@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\1.18\1.18\bin\Debug\1.18.exe.config
+c:\users\wecancodeit\source\repos\1.18\1.18\bin\Debug\1.18.exe
+c:\users\wecancodeit\source\repos\1.18\1.18\bin\Debug\1.18.pdb
+c:\users\wecancodeit\source\repos\1.18\1.18\obj\Debug\1.18.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\1.18\1.18\obj\Debug\1.18.exe
+c:\users\wecancodeit\source\repos\1.18\1.18\obj\Debug\1.18.pdb
+c:\users\wecancodeit\source\repos\1.18\1.18\obj\Debug\1.18.csprojResolveAssemblyReference.cache
